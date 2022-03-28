@@ -1,5 +1,7 @@
 global:
-  saleorApiUrl: ""
+  staticUrl: https://nttdatauk-dea-saleor-images.s3.amazonaws.com/eu-west-2
+  apiUrl: https://dea-saleor.stable.cloudnative.nttdatauk.cloud/dashboard/
+  apiMountUri: -/dashboard/
 
 replicaCount: 1
 
